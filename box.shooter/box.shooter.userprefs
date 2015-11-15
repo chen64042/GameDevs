@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../roller.madness/Assets/Scripts/UIButtonLevelLoad.cs">
+    <Files>
+      <File FileName="../roller.madness/Assets/Scripts/GameManager.cs" Line="1" Column="1" />
+      <File FileName="../roller.madness/Assets/Scripts/UIButtonLevelLoad.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
